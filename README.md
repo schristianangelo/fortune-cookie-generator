@@ -1,5 +1,9 @@
 # fortune-cookie-generator
 
+## Pre-requisites
+    PHP 7.4.10
+    Lumen v8.1.0
+
 ## Git Clone
     git clone {url-path to htdocs}
     git fetch
