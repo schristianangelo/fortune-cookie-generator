@@ -5,9 +5,8 @@
     Lumen v8.1.0
 
 ## Git Clone
-    git clone {url-path to htdocs}
-    git fetch
-    git pull
+    git clone {url-path to htdocs directory}
+    cd {directory}
 
 ## API Folder
     cd api
