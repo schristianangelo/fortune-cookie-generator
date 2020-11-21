@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Quote;
+use App\Models\Quote;
 use Illuminate\Http\Request;
 
 class FortuneController extends Controller
